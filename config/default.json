@@ -1,0 +1,6 @@
+{
+   "port": 5000,
+   "mongooseUri": "mongodb://localhost:27017/LinkShorter",
+   "jwtSecret": "ndEhdenke12",
+   "baseUrl": "http://localhost:5000"
+}
